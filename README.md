@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/06/14/35/54/1000_F_614355414_yzOSlxkApAb2U7bse50hsxFGSuWGmyHC.jpg)
+![MasterHead](https://as1.ftcdn.net/v2/jpg/06/14/35/54/1000_F_614355414_yzOSlxkApAb2U7bse50hsxFGSuWGmyHC.jpg)
 <h1 align="center">Hi 👋, I'm Yoseph Tesfaye</h1>
 <h3 align="center">A passionate full stack developer from Ethiopia</h3>
 
